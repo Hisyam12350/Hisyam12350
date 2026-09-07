@@ -1,4 +1,4 @@
-# 👋 Hi I'm Hisyam
+## 👋 Hi I'm Hisyam
 
 <div align="center">
 
@@ -46,16 +46,31 @@ I build web & mobile applications while learning how software actually works.
 
 ### 🚀 Featured Projects
 
-| 🏫 Website BK | 📱 Pengaduan Masyarakat |
+| 🏫 Website Valoria SMP | 📱 Pengaduan Masyarakat |
 | :--- | :--- |
 | A web-based guidance and counseling platform for schools, designed to support student counseling services. | A mobile application for submitting and managing public complaints. |
-| **Tech:** `Next.js` `MySQL` `Tailwind CSS` | **Tech:** `TypeScript` `React Native` `Supabase` |
+| **Tech:** `Next.js` `Supabase` `Tailwind CSS` | **Tech:** `TypeScript` `React Native` `MySql` |
 
 <br>
 
 ### 🎯 Currently Learning
 
 ```text
-Backend Development     █████████████░░░░░░░   65%
-Software Architecture   ████████████░░░░░░░░   60%
-AI Development          █████████░░░░░░░░░░░   45%
+Backend Development     █████████████████░░░   85%
+Software Architecture   █████████░░░░░░░░░░░   45%
+```
+---
+
+### 📫 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/Hisyam12350">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <code>Keep building. Keep learning.</code>
+</p>
