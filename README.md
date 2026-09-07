@@ -6,7 +6,7 @@
 
 **`Student Developer` • `Web Developer` • `Mobile Developer`**
 
-### "من جد وجد"
+## "من جد وجد"
 *(Man Jadda Wajada)*
 
 </div>
