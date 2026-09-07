@@ -24,8 +24,6 @@ I build web & mobile applications while learning how software actually works.
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mysql,supabase,git,github,nodejs" alt="Tech Stack" />
 </div>
 
-<br>
-
 ---
 
 ### ⚡ Tech Stack
