@@ -1,28 +1,30 @@
-# 👋 Hi I'm Hisyam
+### 👋 Hi I'm [Nama Kamu]
 
-<div align ="center">
+<div align="center">
 
-  # Lif_AY12
-  **Student Developer • Builder • Database • CRUD**
- ## *"من جد وجد"*
+## [Username / Nama Panggilan Kamu]
+
+**`Student Developer` • `Web Developer` • `Mobile Developer`**
+
+### "من جد وجد"
+*(Man Jadda Wajada)*
+
 </div>
 
 ---
 
 ### 🚀 About Me
 
-I'am **Lif_AY12**
-<!--
-**Hisyam12350/Hisyam12350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web & mobile applications while learning how software actually works.
+<!-- Tambahkan sedikit cerita atau deskripsi tentang dirimu di sini jika mau -->
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mysql,supabase,git,github,nodejs" alt="Tech Stack" />
+</div>
+
+<br>
+
+<!-- PENTING: Ganti 'USERNAME_GITHUB_KAMU' di bawah ini dengan username GitHub milikmu yang sebenarnya -->
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=007ec6&style=flat-square&label=Profile+views)
