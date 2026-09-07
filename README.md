@@ -1,8 +1,8 @@
-### 👋 Hi I'm [Nama Kamu]
+### 👋 Hi I'm Hisyam
 
 <div align="center">
 
-## [Username / Nama Panggilan Kamu]
+## Lif_AY12
 
 **`Student Developer` • `Web Developer` • `Mobile Developer`**
 
@@ -27,4 +27,4 @@ I build web & mobile applications while learning how software actually works.
 <br>
 
 <!-- PENTING: Ganti 'USERNAME_GITHUB_KAMU' di bawah ini dengan username GitHub milikmu yang sebenarnya -->
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_GITHUB_KAMU&color=007ec6&style=flat-square&label=Profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=Hisyam12350&color=007ec6&style=flat-square&label=Profile+views)
