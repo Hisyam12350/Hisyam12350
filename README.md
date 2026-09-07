@@ -16,13 +16,6 @@
 ### 🚀 About Me
 
 I build web & mobile applications while learning how software actually works.
-<!-- Tambahkan sedikit cerita atau deskripsi tentang dirimu di sini jika mau -->
-
-### 💻 Tech Stack
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,mysql,supabase,git,github,nodejs" alt="Tech Stack" />
-</div>
 
 ---
 
@@ -49,7 +42,20 @@ I build web & mobile applications while learning how software actually works.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+---
+
+### 🚀 Featured Projects
+
+| 🏫 Website BK | 📱 Pengaduan Masyarakat |
+| :--- | :--- |
+| A web-based guidance and counseling platform for schools, designed to support student counseling services. | A mobile application for submitting and managing public complaints. |
+| **Tech:** `Next.js` `MySQL` `Tailwind CSS` | **Tech:** `TypeScript` `React Native` `Supabase` |
+
 <br>
 
-<!-- PENTING: Ganti 'USERNAME_GITHUB_KAMU' di bawah ini dengan username GitHub milikmu yang sebenarnya -->
-![Profile Views](https://komarev.com/ghpvc/?username=Hisyam12350&color=007ec6&style=flat-square&label=Profile+views)
+### 🎯 Currently Learning
+
+```text
+Backend Development     █████████████░░░░░░░   65%
+Software Architecture   ████████████░░░░░░░░   60%
+AI Development          █████████░░░░░░░░░░░   45%
